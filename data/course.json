@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ]
+  ],
+  "legacy_uid": "d2c86e0c-33d3-e57d-6276-ebfd27f0f99b",
+  "instructors": {
+    "content": [
+      "e1fc9110-2a62-bd10-ddef-305f4df208ec"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3b37c049-2045-b20e-ffef-905e2cc3f6c4",
+    "website": "22-106-neutron-interactions-and-applications-spring-2010"
+  },
+  "course_title": "Neutron Interactions and Applications",
+  "hide_download": true,
+  "course_description": "This course is intended to introduce the student to the concepts and methods of transport theory needed in neutron science applications. This course is a foundational study of the effects of multiple interactions on neutron distributions and their applications to problems across the Nuclear Engineering department. Stochastic and deterministic simulation techniques will be introduced to the students.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.106",
+  "course_image_thumbnail": {
+    "content": "56c1ef09-ae30-41ed-4caf-22cc96d11ac0",
+    "website": "22-106-neutron-interactions-and-applications-spring-2010"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "2629f12e-0fcd-4e33-a41b-a6421127bc9e",
+  "site_short_id": "22.106-spring-2010",
+  "site_url_path": "courses/22-106-neutron-interactions-and-applications-spring-2010",
+  "title": "Course Metadata"
+}
