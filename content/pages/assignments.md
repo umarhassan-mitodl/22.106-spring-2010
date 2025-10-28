@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the homework assignments and term paper required
   for the course along with guidelines for writing the term paper.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

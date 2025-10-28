@@ -32,7 +32,6 @@
     "website": "22-106-neutron-interactions-and-applications-spring-2010"
   },
   "course_title": "Neutron Interactions and Applications",
-  "hide_download": true,
   "course_description": "This course is intended to introduce the student to the concepts and methods of transport theory needed in neutron science applications. This course is a foundational study of the effects of multiple interactions on neutron distributions and their applications to problems across the Nuclear Engineering department. Stochastic and deterministic simulation techniques will be introduced to the students.\n",
   "department_numbers": [
     "22"
@@ -43,7 +42,6 @@
     "content": "56c1ef09-ae30-41ed-4caf-22cc96d11ac0",
     "website": "22-106-neutron-interactions-and-applications-spring-2010"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",

@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, course structure, a statement on plagiarism, and the schedule
   of lecture topics.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -26,7 +24,7 @@ Course Structure
 
 ### Assignments
 
-There will be a total of 6 homework assignments. The due dates are indicated on the schedule of class. Some homework will require the use of computational language such as Fortran or Matlab. Students that are not familiar with such languages are encouraged to do a few [tutorials](http://www.mathworks.com/academia/student_center/tutorials.html).
+There will be a total of 6 homework assignments. The due dates are indicated on the schedule of class. Some homework will require the use of computational language such as Fortran or Matlab. Students that are not familiar with such languages are encouraged to do a few {{% resource_link "924362cc-d15a-4b94-ae10-e6395855f545" "tutorials" %}}.
 
 ### Term Paper
 
@@ -87,7 +85,7 @@ Final exam
 MIT Statement on Plagiarism
 ---------------------------
 
-Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) and [the MIT Web site on Plagiarism](http://web.mit.edu/writing/Special/plagiarism.html).
+Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the {{% resource_link "1bcba8a1-b79d-4f77-af3b-dd916db8d360" "Writing and Communication Center" %}} and {{% resource_link "bbd83df1-c5f2-442e-bee9-74bfe0d445c5" "the MIT Web site on Plagiarism" %}}.
 
 Calendar
 --------
