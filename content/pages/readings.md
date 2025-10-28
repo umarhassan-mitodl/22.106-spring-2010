@@ -11,7 +11,7 @@ uid: fcf4af90-c471-5654-8b98-44ee64a6fbb7
 ---
 ## Neutron Interactions
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262561600) Foderaro, Anthony. [*The Elements of Neutron Interaction Theory*](https://mitpress.mit.edu/9780262561600). Cambridge, MA: MIT Press, 1971. ISBN: 9780262561600.
+{{% resource_link "198f800f-5bf7-42e4-8094-a5bd6b73b010" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Foderaro, Anthony. {{% resource_link "198f800f-5bf7-42e4-8094-a5bd6b73b010" "*The Elements of Neutron Interaction Theory*" %}}. Cambridge, MA: MIT Press, 1971. ISBN: 9780262561600.
 
 Chadwick, J. "Possible Existence of a Neutron." \_Natur\_e (1932): 312.
 
